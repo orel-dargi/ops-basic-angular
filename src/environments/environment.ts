@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  url: 'http://13.50.226.57:8080/api' 
+  url: 'https://ec2-stage.oreldargi.com/api' 
 };
 
 /*
